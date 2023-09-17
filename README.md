@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @arianesannt (or just Ariane) and I'm brazilian. 
-- 👀 I’m interested in data science and AI projects.
-- 🌱 I’m currently learning about business and technology.
-- 💞️ I’m looking to collaborate on computer vision projects.
-- 📫 How to reach me: arianesann@gmail.com. I will be happy to meet you!
+- 👋 大家好，我是@arianesannt（或者只是Ariane），我是巴西人.
 
 
 
