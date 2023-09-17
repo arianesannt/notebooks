@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arianesannt (or just Ariane) and I'm brazilian. 
-- 👋 大家好，我是@arianesannt（或者只是Ariane），我是巴西人.
+- 👋 Hi, I’m @arianesannt (or just Ariane).
+- 👋 大家好，我是@arianesannt（或者只是Ariane).
 
 
 
